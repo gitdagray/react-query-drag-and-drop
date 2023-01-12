@@ -32,13 +32,13 @@
 ### 💻 Source Code
 
 - 🔗 [Starter Source Code for this tutorial](https://github.com/gitdagray/react_query/tree/main/react_query_intro)
-- 🔗 [Completed Source Code for this tutorial]()
+- 🔗 [Completed Source Code for this tutorial](https://github.com/gitdagray/react-query-drag-and-drop)
 
 ---
 
 ### 🎓 Academic Honesty
 
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiargism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
+**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiarism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
 
 ---
 
